@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Karthik!
+#  Hi, I’m Karthik!
 
 I am a passionate developer specializing in Big Data technologies, particularly PySpark and SQL. I enjoy solving complex problems and learning new technologies.
 
