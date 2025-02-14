@@ -10,7 +10,7 @@ I am a passionate developer specializing in Big Data technologies, particularly 
 - ETL Processes & Data Pipelines
 
 ## Skills
-- **Programming Languages:** Python, SQL, Scala
+- **Programming Languages:** Python, SQL, PySpark
 - **Technologies:** PySpark, Hadoop, Hive, Git, GitHub, Spark SQL
 - **Data Engineering Tools:** AWS (S3, EC2, RDS), Power BI, Apache Airflow, Kafka
 - **Other Tools:** Jupyter Notebooks, Visual Studio Code, PyCharm, Databricks
